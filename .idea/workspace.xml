@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88cd222a-ffac-48bf-87d2-be881af3a948" name="Default" comment="" />
+    <list default="true" id="88cd222a-ffac-48bf-87d2-be881af3a948" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vector.cpp" afterPath="$PROJECT_DIR$/src/vector.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vector.hpp" afterPath="$PROJECT_DIR$/src/vector.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vectortest.cpp" afterPath="$PROJECT_DIR$/src/vectortest.cpp" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,32 +43,21 @@
       <file leaf-file-name="vector.hpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/vector.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="649">
+              <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
               <folding>
                 <element signature="e#14#32#0" expanded="true" />
+                <element signature="e#64#73#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vector.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vector.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="97" column="11" lean-forward="false" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vectortest.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vectortest.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vectortest.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="169" column="30" lean-forward="false" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="30" />
+            <state relative-caret-position="288">
+              <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -74,6 +67,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,8 +78,8 @@
         <option value="$PROJECT_DIR$/test/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/src/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/src/vector.hpp" />
         <option value="$PROJECT_DIR$/src/vector.cpp" />
+        <option value="$PROJECT_DIR$/src/vector.hpp" />
         <option value="$PROJECT_DIR$/src/vectortest.cpp" />
       </list>
     </option>
@@ -100,6 +96,7 @@
     <option name="width" value="1373" />
     <option name="height" value="875" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -365,12 +362,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531894676200</updated>
-      <workItem from="1531894677870" duration="21633000" />
+      <workItem from="1531894677870" duration="22115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21633000" />
+    <option name="totallyTimeSpent" value="22115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,11 +383,11 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28108808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28181818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21631464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -449,32 +446,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/vector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/vector.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="649">
+          <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
           <folding>
             <element signature="e#14#32#0" expanded="true" />
+            <element signature="e#64#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vectortest.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="169" column="30" lean-forward="false" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="30" />
+        <state relative-caret-position="288">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vector.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="97" column="11" lean-forward="false" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>

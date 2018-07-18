@@ -13,10 +13,6 @@ gtest/gtest.h
 -
 
 /home/academys/Code Dojo/src/vector.cpp
-new
--
-vector.hpp
-/home/academys/Code Dojo/src/vector.hpp
 
 /home/academys/Code Dojo/src/vector.hpp
 cstddef

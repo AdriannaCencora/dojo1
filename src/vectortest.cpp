@@ -25,7 +25,7 @@ public:
     }
 
 public:
-    vector uut;
+    vector<int> uut;
 };
 
 
