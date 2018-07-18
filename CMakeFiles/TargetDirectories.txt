@@ -1,0 +1,3 @@
+/home/academys/Code Dojo/CMakeFiles/rebuild_cache.dir
+/home/academys/Code Dojo/CMakeFiles/Code_Dojo.dir
+/home/academys/Code Dojo/CMakeFiles/edit_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/academys/Code Dojo/src/main.cpp
+vector.hpp
+/home/academys/Code Dojo/src/vector.hpp
+gtest/gtest.h
+-
+
+/home/academys/Code Dojo/src/vector.cpp
+new
+-
+vector.hpp
+/home/academys/Code Dojo/src/vector.hpp
+
+/home/academys/Code Dojo/src/vector.hpp
+cstddef
+-
+exception
+-
+
+/home/academys/Code Dojo/src/vectortest.cpp
+gtest/gtest.h
+-
+vector.hpp
+/home/academys/Code Dojo/src/vector.hpp
+vector
+-
+exception
+-
+
